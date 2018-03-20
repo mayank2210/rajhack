@@ -1,0 +1,9 @@
+Please listen to the I V R menu carefully and choose your option only after the completion of the instructions.
+
+For Listening Again.
+Say "Monday".
+
+For going back to the main menu.
+Say "Tuesday".
+
+Thankyou, now choose your "preferred" option.

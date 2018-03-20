@@ -1,0 +1,61 @@
+Language model created by QuickLM on Tue Mar 20 05:17:52 EDT 2018
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 9 sentences and 11 words
+
+\data\
+ngram 1=11
+ngram 2=18
+ngram 3=9
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.7324 APLE -0.2218
+-1.7324 APPLE -0.2218
+-1.7324 BAL -0.2218
+-1.7324 BALL -0.2218
+-1.7324 CAT -0.2218
+-1.7324 DAG -0.2218
+-1.7324 DOG -0.2218
+-1.7324 EG -0.2218
+-1.7324 EGG -0.2218
+
+\2-grams:
+-1.2553 <s> APLE 0.0000
+-1.2553 <s> APPLE 0.0000
+-1.2553 <s> BAL 0.0000
+-1.2553 <s> BALL 0.0000
+-1.2553 <s> CAT 0.0000
+-1.2553 <s> DAG 0.0000
+-1.2553 <s> DOG 0.0000
+-1.2553 <s> EG 0.0000
+-1.2553 <s> EGG 0.0000
+-0.3010 APLE </s> -0.3010
+-0.3010 APPLE </s> -0.3010
+-0.3010 BAL </s> -0.3010
+-0.3010 BALL </s> -0.3010
+-0.3010 CAT </s> -0.3010
+-0.3010 DAG </s> -0.3010
+-0.3010 DOG </s> -0.3010
+-0.3010 EG </s> -0.3010
+-0.3010 EGG </s> -0.3010
+
+\3-grams:
+-0.3010 <s> APLE </s>
+-0.3010 <s> APPLE </s>
+-0.3010 <s> BAL </s>
+-0.3010 <s> BALL </s>
+-0.3010 <s> CAT </s>
+-0.3010 <s> DAG </s>
+-0.3010 <s> DOG </s>
+-0.3010 <s> EG </s>
+-0.3010 <s> EGG </s>
+
+\end\

@@ -1,0 +1,24 @@
+Hello and welcome to Nazar.
+
+Being the eyes, for the blind.
+
+Please listen to the I V R menu carefully and choose your option only after the completion of the instructions.
+
+For Listening to music.
+Say "Monday".
+
+For Latest Movie List.
+Say "Tuesday".
+
+For News Headlines.
+Say "Wednesday".
+
+For Latest Updates on Technology.
+Say "Thursday".
+
+For listening to the menu again.
+Say "Friday".
+
+Thank You now choose your preferred option.
+
+
